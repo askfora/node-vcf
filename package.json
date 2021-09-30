@@ -35,7 +35,7 @@
   "homepage": "https://github.com/jhermsmeier/node-vcf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhermsmeier/node-vcf.git"
+    "url": "https://github.com/askfora/node-vcf.git"
   },
   "bugs": {
     "url": "https://github.com/jhermsmeier/node-vcf/issues"
