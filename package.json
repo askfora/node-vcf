@@ -16,12 +16,12 @@
     "url": "https://jhermsmeier.de"
   },
   "dependencies": {
-    "camelcase": "^5.0.0",
+    "camelcase": "^6.1.0",
     "foldline": "^1.1.0"
   },
   "devDependencies": {
     "matcha": "^0.7.0",
-    "mocha": "^5.0.5"
+    "mocha": "^6.2.2"
   },
   "testling": {
     "harness": "mocha-tdd",
@@ -35,7 +35,7 @@
   "homepage": "https://github.com/jhermsmeier/node-vcf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhermsmeier/node-vcf.git"
+    "url": "https://github.com/askfora/node-vcf.git"
   },
   "bugs": {
     "url": "https://github.com/jhermsmeier/node-vcf/issues"
